@@ -1,4 +1,4 @@
-package moten.david.util.words;
+package com.github.davidmoten.util.words;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
@@ -9,6 +9,9 @@ import java.util.Comparator;
 import java.util.List;
 
 import org.junit.Test;
+
+import com.github.davidmoten.util.words.Dictionary;
+import com.github.davidmoten.util.words.DictionarySowpods;
 
 public class DictionarySowpodsTest {
 

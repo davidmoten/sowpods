@@ -1,4 +1,4 @@
-package moten.david.util.words;
+package com.github.davidmoten.util.words;
 
 /**
  * Dictionary for word validity.
